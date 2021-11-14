@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  B_id: 1
+  B_title: MyString
+  Author: MyString
+  Publisher: MyString
+  Year: 2021-11-14
+
+two:
+  B_id: 1
+  B_title: MyString
+  Author: MyString
+  Publisher: MyString
+  Year: 2021-11-14
